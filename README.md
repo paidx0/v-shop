@@ -1,4 +1,4 @@
-# v-shop
+# v-shop电商后台管理通用模版
 
 ## Project setup
 ```
